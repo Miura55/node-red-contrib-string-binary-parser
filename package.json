@@ -1,12 +1,12 @@
 {
   "name": "red-contrib-string-binary-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert number to binary number by Node-RED",
   "main": "binary-number.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "node-red" : {
+  "node-red": {
     "nodes": {
       "lower-case": "binary-number.js"
     }
