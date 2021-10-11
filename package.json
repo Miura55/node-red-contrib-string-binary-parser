@@ -1,0 +1,28 @@
+{
+  "name": "red-contrib-string-binary-parser",
+  "version": "0.0.1",
+  "description": "Convert number to binary number by Node-RED",
+  "main": "binary-number.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red" : {
+    "nodes": {
+      "lower-case": "binary-number.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miura55/node-red-contrib-string-binary-parser.git"
+  },
+  "keywords": [
+    "node-red",
+    "binary"
+  ],
+  "author": "kmiura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Miura55/node-red-contrib-string-binary-parser/issues"
+  },
+  "homepage": "https://github.com/Miura55/node-red-contrib-string-binary-parser#readme"
+}
