@@ -2,8 +2,8 @@
 
 Convert binary number by Node-RED
 
-This node can conavert decimal number to some type below.
+This node can convert decimal number to some type below.
 
-- binary
+- Binary
 - Octal
 - Hexadecimal
