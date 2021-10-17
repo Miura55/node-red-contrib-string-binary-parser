@@ -1,6 +1,6 @@
 {
   "name": "red-contrib-string-binary-parser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Convert number to binary number by Node-RED",
   "main": "binary-number.js",
   "scripts": {
